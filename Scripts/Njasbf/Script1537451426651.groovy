@@ -17,3 +17,6 @@ WebUI.acceptAlert()
 
 
 'commit alisson'
+
+
+'commit depois do checkout - alisson '
